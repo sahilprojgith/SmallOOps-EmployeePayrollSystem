@@ -1,8 +1,7 @@
-# SmallOOps-EmployeePayrollSystem
+# Small OOps-EmployeePayrollSystem
 This is a simple Employee Payroll System built using Object-Oriented Programming (OOP) principles in Java.
 
-Key Concepts Used
-
+Key Concepts Used-
 Abstraction: Employee is an abstract class representing a generic employee.
 Inheritance: FullTimeEmployee and PartTimeEmployee extend Employee.
 Polymorphism: Salary calculation is handled dynamically using overridden methods.
